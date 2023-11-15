@@ -1,0 +1,4 @@
+[core]
+    remote = pers_git
+['remote "pers_git"']
+    url = https://github.com/axrosas/trying_dvc.git
